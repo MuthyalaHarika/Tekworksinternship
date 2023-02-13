@@ -1,0 +1,9 @@
+start
+step1:m=1,readn,s=0
+step2:while(m<=n)
+      {
+        s=s+(x^2)m
+        m=m+1
+      } 
+step3:display s    
+stop

@@ -1,0 +1,9 @@
+Algorithm for adding of two numbers withoutusing addition operator
+start
+step1:read a , b
+step2:for(i=0;i<b,i++)
+
+	{
+          	a++;
+      }
+step3:display a

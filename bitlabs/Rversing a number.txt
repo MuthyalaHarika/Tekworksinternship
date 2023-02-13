@@ -1,0 +1,17 @@
+ALGORITHM FOR REVERSING A NUMBER
+start
+step1:Read n
+step2:for(k=n; k>=1,k=k-1)
+      display k;
+  
+
+
+by using whileloop
+ 
+read n
+k=n;
+while(k>=1)
+{
+display k;
+k=k-1;
+}
