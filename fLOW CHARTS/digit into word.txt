@@ -1,0 +1,21 @@
+start
+step1:read n
+step2:if(n==1)
+      display("one")
+
+     else if(n==2)
+     display("two")
+     else if(n==3)
+     display("three")
+     else if(n==4)
+     display("four")
+     else if(n==5)
+     display("five")
+     else if(n==6)
+     display("six")
+     else if(n==7)
+     display("seven")
+     else if(n==8)
+     display("nine")
+     else display("ten")
+stop
