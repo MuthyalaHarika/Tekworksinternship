@@ -1,0 +1,11 @@
+CHECK UPPERCASE OR LOWERCASE
+
+start
+step1: read char
+step2: check if(char>='A' && char<='Z')
+               display("it is a uppercase")
+             else
+                 display ("it is a lowercase")
+
+stop
+           

@@ -1,0 +1,14 @@
+CHECK THE NUMBER IS NEGATIVE,POSITVE OR ZERO
+
+start
+step1:read num
+step2:check if(num<0)
+      {
+      display("the number is negtive")
+      else if(num>0)
+      display("the number is positive")
+      else 
+      display("the number is zero" )
+      }
+stop
+

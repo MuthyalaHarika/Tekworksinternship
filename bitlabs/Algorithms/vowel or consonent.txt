@@ -1,0 +1,10 @@
+VOWEL OR CONSONENT
+
+start
+step1:read any alphabet
+step2: check if (alphabet=='a' or alphabet=='e' or alphabet=='i' or alphabet=='o' alphabet=='u'or alphabet=='A' or alphabet=='E' or alphabet=='I' or alphabet=='O' or alphabet=='U')
+               display("it is a vowel")
+             else
+                 display("it is a consonent")
+
+stop

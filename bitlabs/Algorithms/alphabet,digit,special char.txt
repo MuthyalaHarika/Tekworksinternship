@@ -1,0 +1,14 @@
+CHECK ALPHABET OR DIGIT OR SPECIAL CHARACTER
+
+start
+step1:read alphabet,digit
+step2:check if(alphabet>='A' or alphabet>='a' & alphabet<='z' or alphabet<='Z')
+             {
+               display("it is a alphabet")
+         else if(alphabet>=0 & alphabet<=9)
+              display("it is a digit")
+             }
+         else
+              display("it is a special character")
+stop
+           
