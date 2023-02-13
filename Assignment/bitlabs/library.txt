@@ -1,0 +1,73 @@
+//ALGORITHM ON LIBRARY MANAGEMENT SYSTEM
+start
+step1:Display "Welcome LOGO"
+step2:Display"enter your login details"  
+steep3:Read the login detail from the user say mailID,password
+step4:if(login details are matched) 
+      {
+        Display "predominants" as
+        *Add book information
+        *Display book information
+        *List all books of given author
+        *List the count of books in the library
+        *view booklist
+        *Delete book
+        
+step5:exit application
+      }
+       else
+        { 
+          display"your login details are unmatched"
+step5:List the count of books in the library
+step6:if(count==1000books)  
+       {
+       Display "count is true"
+      }
+       else
+      {
+
+       display "count is false"
+     }
+step7:if(libraryincharge wants to view the deletebooks)
+       {
+        check types of books,how many copies are there,checks the missing books
+         Deletebooks==100
+       if(Deletebooks<=100)
+      {
+        Display  deletebooks are 100
+       }
+        else
+       {
+         Display none
+step8:Display "Thankyou"
+stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   

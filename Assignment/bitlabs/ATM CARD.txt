@@ -1,0 +1,87 @@
+//ALGORITHM  FOR ATM TRANSACTION
+start
+step1:Display"Welcome to ATM"
+step2:Insert the card into the slot
+      if the card is vaild
+      {
+         Display choose the languages
+              *Telugu
+              *Hindi
+              *English
+         select the convient languages
+       if(input is "cash withdraw")
+         Display the  account type
+            *saving account
+            *current account
+          if the account is  " saving account"
+           {
+             Display "enter the amount"
+               amount=2000
+           if the (amount<=3000)
+           { 
+             Display "Enter the pinnumber"
+             read pin
+            if pin is (valid)
+           {
+           Display "collect your cash"  
+           Display "Transaction is successfull" 
+           Display" remove the card from the slot"
+          }
+        .else
+              pin is invalid
+          Display"re-enter the pin number"    
+
+step3:  if(input is "cash deposit")
+          {
+        read amount;
+       {  
+
+         if (amount<=3000)
+       {
+         Display "enter the pin"
+         read pin
+         if( pin is valid)
+        Display "deposit your cash"
+        Display " Transaction successfull"
+        Display"remove your card from the slot"
+      }
+      else Display"deposit is failed"
+     }
+step4:if(input is "check balance")
+       {
+          Display"Enter the pin number"
+          if(pin is valid)
+         Display the "balance"
+           else
+              pin is invalid
+              Display it was" failed"
+else the card is invalid
+   Display("failed")
+
+step5:Display "Thank you"
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+      

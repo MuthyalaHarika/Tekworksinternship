@@ -1,0 +1,9 @@
+start
+step1:read the numbers 1,7,6,8,3,9
+step2:if n%2==0
+        display the number is even
+else
+      display the number is odd
+   
+          
+    

@@ -1,0 +1,16 @@
+start
+step1:read any three numbers
+step2:num1=p,num2=q,num3=r
+step3:if(q>p&q>r)
+      {
+        display "the maximum number"
+      else if(p>q&p>r)
+         display "the maximum number"
+      }
+
+   else 
+step4:display "the maximum number"
+stop
+
+       
+        

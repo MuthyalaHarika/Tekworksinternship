@@ -1,0 +1,66 @@
+ALGORITHM FOR RESTAURANT MANAGEMENT SYSTEM
+
+start
+step1:Enter into the "restarurant"
+      select a sitting 
+      *Ac room with sofaset
+      *Non ac room with normal chairs
+step2:view the "Menu card"
+      items:
+     if veg
+      {
+         1.Butter paneer....350rs/-
+         2.Dal makhani......200rs/-
+         3.palak paneer.....300rs/-
+         4.veg biryani.....250rs/-
+         5.pav bhaji.....100rs/-
+         6.chana masala....200rs/-
+    select the item("palak paneer")
+    place order .....
+   
+      }
+   
+    else if non-veg
+         {
+            1.chicken biryani...200rs/-
+            2.fry biryani......300rs/-
+            3.wings....350rs/-
+            4.chicken65...400rs/-
+            5.prawns biryani ....500rs/-
+            6.fish fry.......600rs/-
+            7.motton biryani...1000rs/-
+  
+           *select the item("chicken65")
+            place order....
+            
+          }   
+step3:   if (food is not delivered on time)  
+         {
+           cancel the order;
+         }
+      else if (food is delivered on time)
+         {
+          taking food
+         if (food is tasty)
+          {
+           make another order
+          } 
+          pay the bill
+payment mode:if(online payment){
+           select 
+		*phonepay
+		*gpay
+		*paytm}
+            if(select phonepay)
+              enter the amount
+               enter the pin
+              send the money ....
+            display(payment is successfull)
+             take the bill...
+             give the tip....
+           else if(payment mode is handcash)
+             count the notes correctly pay the bill...
+           gives the rating...****
+           exit the restaturant.....
+stop...... 
+                                       
