@@ -1,0 +1,22 @@
+GRADES OF SUBJECTS
+ 
+start
+step1:read c,java,python,c++,devops
+step2:per=(scored marks/total marks)100
+step3:check if(per>=90)
+              display("grade A")
+            else if(per>=80)
+                   display("grade B")
+            else if(per>=70)
+                   display("grade C")
+            else if(per>=60)
+                    display("grade D")
+            else if(per>=40)
+                    display("grade E")
+            else
+                   display("grade F")
+
+stop
+
+
+            

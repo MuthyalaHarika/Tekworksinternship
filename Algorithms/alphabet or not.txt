@@ -1,0 +1,10 @@
+CHECK ALPHABET OR NOT
+
+start
+step1:read any alphabet
+step2:check if(alphabet>=a & alphabet<=z)
+               display("is a alphabet")
+            else
+               display("is not a alphabet")
+stop
+       

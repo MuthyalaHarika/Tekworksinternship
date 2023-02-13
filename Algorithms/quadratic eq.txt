@@ -1,0 +1,20 @@
+QUADRATIC EQUATION
+
+start
+step1:read a,b,c
+step2:d=(b*b)-(4*a*c)
+step3:r=b/2*a
+step4:check if(d>0)
+              r1=r+(sqrt(d)/2*a)
+              r2=r-(sqrt(d)/2*a) 
+                display(the roots are real)
+             else
+                    if(d=0)
+                          r1=-b/2*a
+                          r2=b/2*a
+                            display r1,r2
+
+             else if(d<0)
+                  display("invalid ")
+
+stop

@@ -1,0 +1,29 @@
+WEEKNUMBER PRINT WEEKDAY
+
+start
+step1:read "week num is 1-7"
+step2:check if(num>=1 && num<=7)
+           {
+             if(week day)==1
+               dispaly("M0nday")
+             else if(week day)==2
+                     display("TUESDAY")
+             else if(week day)==3
+                     display("Wednesday")
+             else if(week day)==4
+                    display("Thursday")
+             else if(week day)==5
+                     display("Friday")
+             else if(week day)==6
+                     display("Saturday")
+             else if(week day)==7
+                      display("Sunday")
+            }
+        else
+             display("week num is invalid")
+stop
+
+             
+
+         
+

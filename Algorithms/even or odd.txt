@@ -1,0 +1,9 @@
+CHECK NUMBER EVEN OR ODD
+
+start
+step1:read n
+step2:check if(a%2==0)
+              display("the number is even")
+            else
+               display("the number is odd")
+stop

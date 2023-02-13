@@ -1,0 +1,18 @@
+ELECTRICITY BILL
+
+start
+step1:read unit,bill,charge;
+step2:if(unit<50)
+           bill=unit*0.5
+             display bill
+      else if(unit>50 && unit<150)
+              bill=unit*0.75
+               display bill
+       else if(unit>150 && unit<=250)
+               bill=unit*1.20
+                 display bill
+            if(unit>250)
+                bill=unit*1.5
+              total bill=bill+bill*20/100
+stop
+              

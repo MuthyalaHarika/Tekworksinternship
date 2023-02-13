@@ -1,0 +1,11 @@
+LEAFYEAR OR NOT 
+
+start
+step1:read n
+step2:if(n%100==0 & n%400==0)
+        display("is a leaf year")
+      else if(n%4==0 & n%100!=0)
+            display("is a leaf year")
+      else
+           display("not a leaf year" )
+stop
